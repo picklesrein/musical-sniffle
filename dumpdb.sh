@@ -9,6 +9,10 @@ set -o pipefail
 # Would like to add option #3 from:
 # https://dba.stackexchange.com/questions/20/how-can-i-optimize-a-mysqldump-of-a-large-database/2227#2227
 
+# Also:
+# https://dba.stackexchange.com/questions/87100/what-are-the-optimal-mysqldump-settings
+
+
 # Clear variables
 MYSQL_LOGIN_INFO=""
 PRECHECK_DUMP=""
