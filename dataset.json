@@ -1,0 +1,20 @@
+[
+        {
+        "serviceName":"my_service",
+        "localIp":"192.168.my_source_1",
+        "remoteIp":"my_dest_ip",
+        "remotePort":"port#"
+        },
+        {
+        "serviceName":"my_service",
+        "localIp":"192.168.my_source_2",
+        "remoteIp":"my_dest_ip2",
+        "remotePort":"port#2"
+        },
+        {
+        "serviceName":"my_service",
+        "localIp":"192.168.my_source_3",
+        "remoteIp":"my_dest_ip3",
+        "remotePort":"port#3"
+        }
+]
